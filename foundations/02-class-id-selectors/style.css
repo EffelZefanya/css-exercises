@@ -1,0 +1,25 @@
+/*In css, you can use
+element:nth-child(odd/even)
+to make certain elements changed based on its
+order
+*/
+
+.pink{
+    background-color: rgb(219, 144, 156);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#big-blue{
+    color: blue;
+    font-size: 36px;
+}
+
+.big{
+    font-size: 24px;
+}
+
+#light-green-big-bold{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
