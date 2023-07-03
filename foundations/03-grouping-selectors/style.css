@@ -1,0 +1,15 @@
+/* Grouping Selector */
+.blk, .ylw{
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+/* Class Selector */
+.blk{
+    background-color: black;
+    color: white;
+}
+
+.ylw{
+    background-color: yellow;
+}
