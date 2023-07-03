@@ -1,3 +1,10 @@
+/* if you added > in the middle of div and p (replacing the space)
+you'll see that the p in span won't be styled.
+
+This is because the a>b style selector make ONLY direct b descension
+of a has the style. That's why the p in span doesn't has the style
+*/
+
 div p{
     background-color: yellow;
     color: red;
